@@ -3,7 +3,7 @@ using System.Collections;
 
 public class ShaderChange : MonoBehaviour {
 
-	// Followed the code on github but is not respeonding desipte showing now errors
+	// Followed the code on github but is not respeonding desipte showing no errors
 	void Start () {
 	
 	}
